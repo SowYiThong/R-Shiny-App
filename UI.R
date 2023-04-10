@@ -18,3 +18,4 @@ ui <- fluidPage(
   dataTableOutput("results_table"), 
   plotOutput("cumulative_plot")
 )
+
