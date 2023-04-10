@@ -17,5 +17,9 @@ ui <- fluidPage(
   verbatimTextOutput("slider_output"), 
   dataTableOutput("results_table"), 
   plotOutput("cumulative_plot")
+<<<<<<< HEAD
 )
 
+=======
+)
+>>>>>>> 4f7a667709907e141080d1d117e855618c21d2bc
